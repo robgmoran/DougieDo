@@ -14,6 +14,8 @@ All feedback will be gratefully received and incorporated into the final release
 
 Pre-Beta Gameplay - https://www.youtube.com/watch?v=sRNVZNAXwb0&t=34s
 
+**24/01/22 Update** - It appears there is an initialisation difference between emulation and real hardware. As a result an issue has been identified and a new executable resolving the problem will hopefully be released ASAP.
+
 Thanks in advance.
 
 Rob.
