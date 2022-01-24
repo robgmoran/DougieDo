@@ -12,6 +12,8 @@ The game was developed using CSpect. As a result I welcome all testers, but in p
 
 All feedback will be gratefully received and incorporated into the final release; of particular interest is feedback relating to sound effects and whether they are clear and play in mono when run outside of an emulator.
 
+Pre-Beta Gameplay - https://www.youtube.com/watch?v=sRNVZNAXwb0&t=34s
+
 Thanks in advance.
 
 Rob.
