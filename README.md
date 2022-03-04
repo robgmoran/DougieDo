@@ -24,9 +24,9 @@ Beta Gameplay - https://www.youtube.com/watch?v=o6LniQXJMbM&t=200s
 
 **22/02/22 Update** - Uploaded latest version incorporating ability to press fire to start. 
 
-**03/03/22 Update**
-**Final Release**
-I am pleased to say the release version of Dougie Do! has mow been published on https://robgm.itch.io/dougie-do
+**03/03/22 Update** - **Final Release**
+
+I am pleased to say the release version of Dougie Do! has now been published on https://robgm.itch.io/dougie-do and updated on Github.
 
 I hope you Enjoy,
 
