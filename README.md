@@ -1,7 +1,7 @@
 # DougieDo
 Repository for Dougie Do! ZX Spectrum Next game
 
-BETA Release
+**BETA Release**
 
 Currently the only outstanding elements of this game are:
 - Finalisation of music
@@ -24,6 +24,10 @@ Beta Gameplay - https://www.youtube.com/watch?v=o6LniQXJMbM&t=200s
 
 **22/02/22 Update** - Uploaded latest version incorporating ability to press fire to start. 
 
-Thanks in advance.
+**03/03/22 Update**
+**Final Release**
+I am pleased to say the release version of Dougie Do! has mow been published on https://robgm.itch.io/dougie-do
+
+I hope you Enjoy,
 
 Rob.
